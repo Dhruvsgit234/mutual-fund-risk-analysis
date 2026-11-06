@@ -1,0 +1,66 @@
+scheme_code_a,scheme_code_b,correlation,name_a,name_b
+119528,120152,0.9904412426075694,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,Kotak Large Cap Fund - Direct Plan - Growth
+118617,119528,0.9862200219706831,Edelweiss Large Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+118617,120152,0.9861677212411267,Edelweiss Large Cap Fund - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+120152,120586,0.9835356339962633,Kotak Large Cap Fund - Direct Plan - Growth,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth
+118617,120586,0.9812250415308764,Edelweiss Large Cap Fund - Direct Plan - Growth,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth
+119528,120564,0.9810381519713893,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH
+119528,120656,0.9809628192362183,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,UTI - Large Cap Fund - Direct Plan - Growth
+118632,120152,0.9805465445307845,Nippon India Large Cap Fund - Direct Plan - Growth Option,Kotak Large Cap Fund - Direct Plan - Growth
+119528,120586,0.9805062247784845,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth
+119528,138312,0.9803836803481459,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118617,119018,0.9800877737360116,Edelweiss Large Cap Fund - Direct Plan - Growth,HDFC Large Cap Fund - Direct Plan - Growth Option
+120152,138312,0.9797170681814235,Kotak Large Cap Fund - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118479,119528,0.9796450033076431,BANDHAN LARGE CAP FUND - Direct Plan - Growth,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+119528,119598,0.9796217986509108,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,SBI Large Cap Fund - Direct Plan - Growth
+120656,138312,0.9788142663845735,UTI - Large Cap Fund - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118479,120152,0.9787245865407952,BANDHAN LARGE CAP FUND - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+118632,119528,0.9780790729892253,Nippon India Large Cap Fund - Direct Plan - Growth Option,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+120152,120656,0.9779923335979205,Kotak Large Cap Fund - Direct Plan - Growth,UTI - Large Cap Fund - Direct Plan - Growth
+120152,120564,0.9779294808128561,Kotak Large Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH
+119018,119528,0.9778491741651174,HDFC Large Cap Fund - Direct Plan - Growth Option,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+118535,120152,0.9776099642616972,Franklin India Flexi Cap Fund - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+119018,120586,0.9773510650605457,HDFC Large Cap Fund - Direct Plan - Growth Option,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth
+118535,119528,0.9771343394796715,Franklin India Flexi Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+119598,120152,0.9769760227996827,SBI Large Cap Fund - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+119018,120152,0.9769654835758055,HDFC Large Cap Fund - Direct Plan - Growth Option,Kotak Large Cap Fund - Direct Plan - Growth
+118531,120656,0.9769225073990994,Franklin India Large Cap Fund - Direct Plan - Growth,UTI - Large Cap Fund - Direct Plan - Growth
+120505,125307,0.9767207642625166,Axis Midcap Fund - Direct Plan - Growth Option,PGIM India Midcap Fund - Direct Plan - Direct Growth
+119160,120152,0.9762008919530293,Tata Large Cap Fund - Direct Plan - Growth Option,Kotak Large Cap Fund - Direct Plan - Growth
+118617,118632,0.9761447713462807,Edelweiss Large Cap Fund - Direct Plan - Growth,Nippon India Large Cap Fund - Direct Plan - Growth Option
+118531,119528,0.975927811589088,Franklin India Large Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+119160,119528,0.9751195034739952,Tata Large Cap Fund - Direct Plan - Growth Option,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+118533,119581,0.9749512288267312,Franklin India Mid Cap Fund - Direct Plan - Growth,Sundaram Mid Cap Fund - Direct Plan - GROWTH
+120152,120267,0.9749154153329449,Kotak Large Cap Fund - Direct Plan - Growth,LIC MF Large Cap Fund - Direct Plan - Growth
+118617,120564,0.974671429723359,Edelweiss Large Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH
+118479,138312,0.974611283016743,BANDHAN LARGE CAP FUND - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118632,119160,0.974379002071724,Nippon India Large Cap Fund - Direct Plan - Growth Option,Tata Large Cap Fund - Direct Plan - Growth Option
+118479,120564,0.9742595846846557,BANDHAN LARGE CAP FUND - Direct Plan - Growth,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH
+118617,138312,0.9742347414719702,Edelweiss Large Cap Fund - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118479,118535,0.9738623113855543,BANDHAN LARGE CAP FUND - Direct Plan - Growth,Franklin India Flexi Cap Fund - Direct Plan - Growth
+118617,119160,0.9736926166420894,Edelweiss Large Cap Fund - Direct Plan - Growth,Tata Large Cap Fund - Direct Plan - Growth Option
+120586,138312,0.9735258116414767,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+118668,119581,0.9733988535099304,Nippon India Growth Mid Cap Fund - Direct Plan - Growth Option,Sundaram Mid Cap Fund - Direct Plan - GROWTH
+118535,118632,0.9733652771420267,Franklin India Flexi Cap Fund - Direct Plan - Growth,Nippon India Large Cap Fund - Direct Plan - Growth Option
+119071,120726,0.9726623543262611,DSP Midcap Fund - Direct Plan - Growth,UTI - Mid Cap Fund - Direct Plan - Growth
+118531,120152,0.97253613043804,Franklin India Large Cap Fund - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+119528,120267,0.9724947359149552,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH,LIC MF Large Cap Fund - Direct Plan - Growth
+118535,118617,0.9724425846383234,Franklin India Flexi Cap Fund - Direct Plan - Growth,Edelweiss Large Cap Fund - Direct Plan - Growth
+118479,118617,0.972241727267992,BANDHAN LARGE CAP FUND - Direct Plan - Growth,Edelweiss Large Cap Fund - Direct Plan - Growth
+118955,119528,0.9716430240542578,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+119598,138312,0.971527608579689,SBI Large Cap Fund - Direct Plan - Growth,PGIM India Large Cap Fund - Direct Plan - Direct Growth
+119292,140353,0.9714378041959426,Union Flexi Cap Fund - Direct Plan - Growth Option,Edelweiss Flexi Cap Fund - Direct Plan - Growth
+118424,119528,0.9713836765929582,BANDHAN Flexi Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Large Cap Fund - Direct Plan - GROWTH
+118535,140353,0.971210065440437,Franklin India Flexi Cap Fund - Direct Plan - Growth,Edelweiss Flexi Cap Fund - Direct Plan - Growth
+118535,120564,0.9711077118948529,Franklin India Flexi Cap Fund - Direct Plan - Growth,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH
+118668,119620,0.9710413717412741,Nippon India Growth Mid Cap Fund - Direct Plan - Growth Option,Aditya Birla Sun Life Midcap Fund - Direct Plan - GROWTH
+119018,119160,0.9709250869630055,HDFC Large Cap Fund - Direct Plan - Growth Option,Tata Large Cap Fund - Direct Plan - Growth Option
+118617,119598,0.9707199883721709,Edelweiss Large Cap Fund - Direct Plan - Growth,SBI Large Cap Fund - Direct Plan - Growth
+118668,140228,0.9706232952615778,Nippon India Growth Mid Cap Fund - Direct Plan - Growth Option,Edelweiss Mid Cap Fund - Direct Plan - Growth
+120586,120656,0.9704920691950184,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth,UTI - Large Cap Fund - Direct Plan - Growth
+118533,120726,0.9704316947799408,Franklin India Mid Cap Fund - Direct Plan - Growth,UTI - Mid Cap Fund - Direct Plan - Growth
+118955,120152,0.9704116992509199,HDFC Flexi Cap Fund - Direct Plan - Growth Option,Kotak Large Cap Fund - Direct Plan - Growth
+120564,140353,0.9702956814460125,Aditya Birla Sun Life Flexi Cap Fund - Direct Plan - GROWTH,Edelweiss Flexi Cap Fund - Direct Plan - Growth
+118617,120656,0.9701479287874877,Edelweiss Large Cap Fund - Direct Plan - Growth,UTI - Large Cap Fund - Direct Plan - Growth
+118424,120152,0.9701268264347274,BANDHAN Flexi Cap Fund - Direct Plan - Growth,Kotak Large Cap Fund - Direct Plan - Growth
+118479,120656,0.9700117753957137,BANDHAN LARGE CAP FUND - Direct Plan - Growth,UTI - Large Cap Fund - Direct Plan - Growth

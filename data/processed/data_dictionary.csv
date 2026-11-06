@@ -1,0 +1,13 @@
+field,meaning
+cagr,Annualised return over the window (compound)
+volatility,Annualised standard deviation of daily returns
+sharpe,"Mean excess return over risk-free / its std dev, annualised"
+sortino,Like Sharpe but penalises only downside deviation
+beta,Sensitivity to the benchmark (excess-return regression)
+alpha,"Annualised return not explained by beta (simple, daily x 252)"
+max_drawdown,Worst peak-to-trough fall inside the window
+days_to_recover,Days from trough back to the prior peak (blank if not recovered)
+up_capture / down_capture,Average fund return / average benchmark return on up / down days
+info_ratio,Annualised active return / tracking error
+pct_sip_beats_lump,Share of start months where SIP ended above lump sum (same total invested)
+annual_drag,Direct CAGR minus Regular CAGR for the same fund

@@ -1,0 +1,18 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# large or third-party raw data (re-created by the scripts)
+data/mf.db
+data/raw/nav/
+data/raw/tri_chunks/
+data/raw/nifty50_tri.csv
+data/raw/benchmark_used.csv
+data/raw/catalog.csv
+
+# scratch files
+results.txt
+*.zip
+data/processed/llm_summaries.csv
